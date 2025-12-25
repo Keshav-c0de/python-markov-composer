@@ -1,4 +1,5 @@
 A Python-based Markov Chain text generator that "learns" the style of a source text (like Harry Potter) and generates new, original sentences in that same style.
+
 🚀 How it Works
 
 This project uses Graph Theory to model language:
